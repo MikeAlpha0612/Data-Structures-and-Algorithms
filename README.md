@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1046-max-consecutive-ones-iii](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/1046-max-consecutive-ones-iii) |
 ## Database
 |  |
 | ------- |
@@ -25,4 +26,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-average-selling-price](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/1390-average-selling-price) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1827-invalid-tweets](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/1827-invalid-tweets) |
+## Array
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/1046-max-consecutive-ones-iii) |
+## Binary Search
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/1046-max-consecutive-ones-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
