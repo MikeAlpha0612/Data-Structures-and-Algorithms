@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [2887-sort-vowels-in-a-string](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/2887-sort-vowels-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -81,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/2324-find-triangular-sum-of-an-array) |
+## Sorting
+|  |
+| ------- |
+| [2887-sort-vowels-in-a-string](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/2887-sort-vowels-in-a-string) |
 <!---LeetCode Topics End-->
