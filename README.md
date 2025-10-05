@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0417-pacific-atlantic-water-flow](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/0417-pacific-atlantic-water-flow) |
 | [0966-binary-subarrays-with-sum](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/1370-count-number-of-nice-subarrays) |
@@ -56,4 +57,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1370-count-number-of-nice-subarrays](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/1370-count-number-of-nice-subarrays) |
+## Depth-First Search
+|  |
+| ------- |
+| [0417-pacific-atlantic-water-flow](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/0417-pacific-atlantic-water-flow) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0417-pacific-atlantic-water-flow](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/0417-pacific-atlantic-water-flow) |
+## Matrix
+|  |
+| ------- |
+| [0417-pacific-atlantic-water-flow](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/0417-pacific-atlantic-water-flow) |
 <!---LeetCode Topics End-->
