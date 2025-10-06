@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2887-sort-vowels-in-a-string](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/2887-sort-vowels-in-a-string) |
 | [3194-find-words-containing-character](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/3194-find-words-containing-character) |
+| [3396-valid-word](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/3396-valid-word) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Sliding Window
 |  |
