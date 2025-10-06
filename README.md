@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3639-zero-array-transformation-i](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/3639-zero-array-transformation-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [3639-zero-array-transformation-i](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/3639-zero-array-transformation-i) |
 ## Math
 |  |
 | ------- |
