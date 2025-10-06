@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3194-find-words-containing-character](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/3194-find-words-containing-character) |
 | [3639-zero-array-transformation-i](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/3639-zero-array-transformation-i) |
 ## Binary Search
@@ -97,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+## Greedy
+|  |
+| ------- |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 <!---LeetCode Topics End-->
