@@ -11,7 +11,7 @@ public:
         for(int i = 0; i < n; i++){
            string it = words[i];
 
-             if(find(it.begin(), it.end(), x) != it.end()){
+             if(find(it.begin(), it.end(), str) != it.end()){
                 result.push_back(i);
             }
           
