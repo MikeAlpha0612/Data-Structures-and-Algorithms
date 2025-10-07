@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/0070-climbing-stairs) |
 | [1370-count-number-of-nice-subarrays](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/1370-count-number-of-nice-subarrays) |
 | [1610-xor-operation-in-an-array](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/1610-xor-operation-in-an-array) |
 | [1642-water-bottles](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/1642-water-bottles) |
@@ -107,4 +108,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1610-xor-operation-in-an-array](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/1610-xor-operation-in-an-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
