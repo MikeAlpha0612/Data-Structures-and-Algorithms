@@ -1,7 +1,7 @@
 class Solution {
 public:
     // FIX: Pass strings by constant reference to avoid costly copies
-    int result(const string& text1, const string& text2, int n1, int n2, vector<vector<int>>& dp) {
+    int result( string& text1,  string& text2, int n1, int n2, vector<vector<int>>& dp) {
         
         if (n1 < 0 || n2 < 0) {
             return 0;
