@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/0198-house-robber) |
 | [0417-pacific-atlantic-water-flow](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/0417-pacific-atlantic-water-flow) |
 | [0966-binary-subarrays-with-sum](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/1046-max-consecutive-ones-iii) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/0198-house-robber) |
 ## Memoization
 |  |
 | ------- |
