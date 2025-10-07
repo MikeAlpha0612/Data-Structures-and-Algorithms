@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/0417-pacific-atlantic-water-flow) |
 | [0966-binary-subarrays-with-sum](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/0966-binary-subarrays-with-sum) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/0417-pacific-atlantic-water-flow) |
 ## Matrix
 |  |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/0416-partition-equal-subset-sum) |
 ## Memoization
 |  |
