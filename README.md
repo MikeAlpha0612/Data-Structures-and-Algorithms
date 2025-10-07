@@ -9,12 +9,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
+| [2547-odd-string-difference](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/2547-odd-string-difference) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [2547-odd-string-difference](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/2547-odd-string-difference) |
 | [2887-sort-vowels-in-a-string](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/2887-sort-vowels-in-a-string) |
 | [3194-find-words-containing-character](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/3194-find-words-containing-character) |
 | [3396-valid-word](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/3396-valid-word) |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
+| [2547-odd-string-difference](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/2547-odd-string-difference) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3194-find-words-containing-character](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/3194-find-words-containing-character) |
 | [3639-zero-array-transformation-i](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/3639-zero-array-transformation-i) |
