@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [2362-minimum-rounds-to-complete-all-tasks](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## String
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2362-minimum-rounds-to-complete-all-tasks](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3194-find-words-containing-character](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/3194-find-words-containing-character) |
 | [3639-zero-array-transformation-i](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/3639-zero-array-transformation-i) |
@@ -99,10 +101,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [2362-minimum-rounds-to-complete-all-tasks](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Greedy
 |  |
 | ------- |
+| [2362-minimum-rounds-to-complete-all-tasks](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## Bit Manipulation
 |  |
