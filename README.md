@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2547-odd-string-difference](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/2547-odd-string-difference) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3194-find-words-containing-character](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/3194-find-words-containing-character) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/1046-max-consecutive-ones-iii) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2887-sort-vowels-in-a-string](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/2887-sort-vowels-in-a-string) |
 ## Counting
 |  |
@@ -145,4 +148,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/0070-climbing-stairs) |
+## Two Pointers
+|  |
+| ------- |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/2392-successful-pairs-of-spells-and-potions) |
 <!---LeetCode Topics End-->
