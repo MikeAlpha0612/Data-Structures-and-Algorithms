@@ -1,24 +1,39 @@
-#include <vector>
-#include <algorithm>
-
 class Solution {
 public:
-    int maximumEnergy(std::vector<int>& energy, int k) {
-        int n = energy.size();
-        int max_energy = INT_MIN;
 
-        // Iterate backward from the end of the array.
-        // For each element energy[i], add the energy from the next jump (i + k).
-        // This way, energy[i] will store the total energy for a path starting at i.
-        for (int i = n - 1; i >= 0; --i) {
-            // Check if a valid next jump exists within the array bounds
-            if (i + k < n) {
-                energy[i] += energy[i + k];
-            }
-            // Update the overall maximum energy found so far
-            max_energy = std::max(max_energy, energy[i]);
+
+
+    int result(vector<int>& energy, int k, int ind , int n, vector<int>& dp){
+
+        if( ind >= n){
+            return 0;
+        }
+     
+        
+        
+        if(dp[ind] != -1){
+            return dp[ind];
         }
 
-        return max_energy;
+        int maxi =  energy[ind] + result(energy, k, ind+k, n, dp);
+     
+        return dp[ind] = maxi;;
+
+
+    }
+
+    int maximumEnergy(vector<int>& energy, int k) {
+        int n = energy.size();
+
+        vector<int>dp(n+1, -1);
+        int maxi = INT_MIN;
+
+        for(int i = 0; i < n; i++){
+           maxi = max(maxi, result(energy, k, i, n, dp));
+        }
+
+        return maxi ;
+
+
     }
 };
