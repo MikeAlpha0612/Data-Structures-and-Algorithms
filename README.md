@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/0198-house-robber) |
+| [0300-longest-increasing-subsequence](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/0417-pacific-atlantic-water-flow) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/0300-longest-increasing-subsequence) |
 | [1046-max-consecutive-ones-iii](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/1046-max-consecutive-ones-iii) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Prefix Sum
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/0115-distinct-subsequences) |
 | [0198-house-robber](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/0198-house-robber) |
+| [0300-longest-increasing-subsequence](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/0494-target-sum) |
