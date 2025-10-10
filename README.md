@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2547-odd-string-difference](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/2547-odd-string-difference) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3194-find-words-containing-character](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/3194-find-words-containing-character) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3639-zero-array-transformation-i](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/3639-zero-array-transformation-i) |
 ## Binary Search
 |  |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3639-zero-array-transformation-i](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/3639-zero-array-transformation-i) |
 ## Math
 |  |
