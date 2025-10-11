@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/0070-climbing-stairs) |
 | [1370-count-number-of-nice-subarrays](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/1370-count-number-of-nice-subarrays) |
@@ -180,4 +181,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/0044-wildcard-matching) |
+| [0050-powx-n](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
