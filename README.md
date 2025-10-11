@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1610-xor-operation-in-an-array](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/1610-xor-operation-in-an-array) |
+| [2323-minimum-bit-flips-to-convert-number](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Dynamic Programming
 |  |
 | ------- |
