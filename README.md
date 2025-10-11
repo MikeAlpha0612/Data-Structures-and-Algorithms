@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/0198-house-robber) |
+| [0204-count-primes](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/0204-count-primes) |
 | [0300-longest-increasing-subsequence](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/0416-partition-equal-subset-sum) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/0070-climbing-stairs) |
+| [0204-count-primes](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/0204-count-primes) |
 | [1370-count-number-of-nice-subarrays](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/1370-count-number-of-nice-subarrays) |
 | [1610-xor-operation-in-an-array](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/1610-xor-operation-in-an-array) |
 | [1642-water-bottles](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/1642-water-bottles) |
@@ -182,4 +184,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/0050-powx-n) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/MikeAlpha0612/Data-Structures-and-Algorithms/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
