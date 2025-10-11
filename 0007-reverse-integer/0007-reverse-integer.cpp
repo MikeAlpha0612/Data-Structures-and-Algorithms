@@ -4,13 +4,13 @@ public:
         
         if (x == INT_MIN) return 0;
 
-        int temp = abs(x);
+         long long temp = abs(x);
 
         long long rev = 0;
 
         while(temp > 0){
 
-            int ans = temp % 10;
+            int ans = (int) temp % 10;
 
             rev = rev * 10 + ans ;
 
